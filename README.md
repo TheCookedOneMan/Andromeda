@@ -21,6 +21,14 @@ Andromeda предлагает
 
 Создайте issue на Github.Я попробую оперативно помочь с решением вашей проблемы.
 
+Совместимость
+10-11 Windows
+Linux, MacOS
+
 -->Поддержать проект
 
 Поставьте звездочку:D
+
+Ссылка на скачивание
+
+https://github.com/TheCookedOneMan/Andromeda/releases/tag/v.1.0.0
